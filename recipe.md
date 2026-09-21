@@ -13,7 +13,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
+- 2 pumps of pumpkin spice
 - [SPECIAL CAKE INGREDIENT]
 
 ## Filling
